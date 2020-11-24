@@ -1,0 +1,19 @@
+<!--index.wxml-->
+<view class="container">
+
+<view class="userinfo">
+<image class="userinfo-avatar" background-size = "cover" src="../../images/e6eb908853264f72645c8b130833e59.jpg">
+
+</image>
+<text class="userinfo-nickname">阿乃</text>
+</view>
+
+<view class="usermotto">
+<text class="user-motto">
+Hello Anai
+欢迎来到阿乃小朋友的世界
+</text>
+
+</view>
+
+</view>
